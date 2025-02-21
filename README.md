@@ -25,7 +25,7 @@ De no estar instalada puedes descargarla desde [aquí](https://www.python.org/do
 Para más información de como instalar, consultar la [documentación](https://docs.python.org/3/)
 
 ### Windows
-Descargar el instalador haciendo click [aquí](https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe))
+Descargar el instalador haciendo click [aquí](https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe)
 
 Se dispone de mas información sobre su instalación en el siguiente [enlace](https://www.python.org/downloads/windows/)
 
