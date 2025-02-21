@@ -58,7 +58,7 @@ $ pip install -r requeriments.txt
 $ python3 src/holamundo_pyside6/holamundo.py
 ```
 Nos mostrará la aplicación *holamundo_pyside6* en ejecución
-
+![holamundo](https://doc.qt.io/qtcreator/images/qtcreator-new-qt-for-python-app-widgets-ready.webp)
 
 
 
