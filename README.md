@@ -20,5 +20,8 @@ orden en una terminal:
 ```bash
 $ python3 --version
 ```
+De no estar instalada puedes descargarla desde [aquí](https://www.python.org/downloads/)
+Para más información de como instalar, consultar la [documentación](https://docs.python.org/3/)
+
 
 
