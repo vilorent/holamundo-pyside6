@@ -1,6 +1,6 @@
 # holamundo-pyside6
 
-Hola mundo con PySide6
+Hola mundo con PySide6.
 
 Para ejecutar el *hola mundo*, necesitamos instalar antes Python3 y sus dependencias.
 
@@ -57,7 +57,7 @@ $ pip install -r requeriments.txt
 ```bash
 $ python3 src/holamundo_pyside6/holamundo.py
 ```
-Nos mostrará la aplicación *holamundo_pyside6* en ejecución
+Nos mostrará la aplicación *holamundo_pyside6* en ejecución.
 
 ![holamundo](https://doc.qt.io/qtcreator/images/qtcreator-new-qt-for-python-app-widgets-ready.webp)
 
