@@ -14,5 +14,11 @@ $ cd holamundo-pyside6/
 ## Instalación de Python3
 ![Logotipo de Python](https://es.schoolofdata.org/files/2017/07/python-logo-master-v3-TM-flattened.png)
 
-###Linux
+### Linux
+Python3 viene preinstalado en la mayoría de las distribuciones Linux, se puede comprobar so está instalado ejecutando la siguiente
+orden en una terminal:
+```bash
+$ python3 --version
+```
+
 
